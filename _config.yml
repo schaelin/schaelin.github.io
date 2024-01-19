@@ -14,7 +14,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Kunyoung Lee
-  tagline: Researcher in AI, Machine Learning, Affective Computing, etc
+  tagline: Researcher in AI, Machine Learning, Affective Computing, etc.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
