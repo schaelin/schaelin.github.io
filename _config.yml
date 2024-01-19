@@ -1,4 +1,3 @@
-remote_theme: samarsault/plainwhite-jekyll
 theme: plainwhite
 title: Your awesome title
 author: GitHub User
@@ -14,8 +13,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Kunyoung Lee
+  tagline: Researcher in AI, Machine Learning, Affective Computing, etc.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
