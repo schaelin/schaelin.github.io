@@ -3,15 +3,21 @@ title: Kunyoung Lee (CV)
 author: KYL92
 email: guy9284@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A Docs Site For Curriculum Vitae
 show_excerpts: true # set to true to show excerpts on the homepage
+future: true
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
+  
+notion:
+  pages:
+    - id: 838177043c474405bcbc09826a13153b
+  # databases:
+  #   - id: 838177043c474405bcbc09826a13153b
+
 plainwhite:
   name: Kunyoung Lee
   tagline: Researcher in AI, Machine Learning, Affective Computing, etc.
@@ -22,25 +28,36 @@ plainwhite:
   portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "kr" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   condensed_mobile:
-    #- home
+    - home
     - page
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    # twitter: KYL92
+    github:  KYL92
+    # linkedIn: KYL92
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
     #pinterest: jekyll
-    #youtube: jekyll
+    # youtube: /@user-jf9ru4vb3q
     #facebook: jekyll
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: guy9284@gmail.com
 
+  navigation:
+    - title: Home
+      url: "/"
+    - title: Publications
+      url: "/"
+    - title: Patents
+      url: "/"
+    - title: Projects
+      url: "/"
+    - title: Exeprience
+      url: "/"
     # Mastodon instances
     # mastodon:
     # - username: jekyll
@@ -57,5 +74,7 @@ plainwhite:
 # theme: plainwhite
 
 plugins:
+  - jekyll-notion
   - jekyll-seo-tag
+
 #  - jekyll-feed

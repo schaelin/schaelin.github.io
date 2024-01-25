@@ -16,9 +16,9 @@ $leftWidth: 220px;
 
 body {
   font-family: "Raleway", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.2em;
-  margin: 0;
+  margin: 100;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -79,6 +79,7 @@ main {
     display: flex;
     height: 100vh;
     padding-bottom: 15vh;
+    margin-top: 100px;
     @media screen and (max-width: $mobileW) {
       height: auto;
       padding: 5vh 30px;
@@ -181,12 +182,14 @@ main {
   border-bottom: 1px solid #ececec;
   margin-bottom: 1rem;
   padding-bottom: 1rem;
+  margin-left: $leftWidth+100;
 }
 
 .post-categories {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  margin-left: $leftWidth+100;
   li {
     font-size: 14px;
     float: left;
@@ -229,7 +232,7 @@ main {
 .posts,
 .post-container {
   list-style-type: none;
-  margin: 45px 30px;
+  margin: 45px 30px 45px $leftWidth - 150px;
   @media screen and (max-width: $smallMobileW) {
     margin-left: 20px;
     margin-right: 20px;

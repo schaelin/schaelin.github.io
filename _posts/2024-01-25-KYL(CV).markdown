@@ -1,0 +1,209 @@
+---
+layout: page
+title:  "Curriculum Vitae (CV)"
+date:   2024-01-25 12:03:36 +0530
+---
+
+# Biography
+
+I work on overcoming instability and noisy data of Affective computing in the wild setting. Throughout my research, I have studied various kinds of topics to help AI deal with real-world problems in emotion recognition. Specifically, I am interested in advancing AI to better inference facial expression recognition and physiological signal sensing, such as in remote photoplethysmography and breathing rate.
+
+### Interests
+
+- Computer Vision
+- Affective Computing
+- Remote Photoplethysmography
+- Facial Expression Recognition
+
+### Education
+
+> **Ph.D.**, in Graduate School of Computer Science, Sangmyung University, Seoul, Korea (Mar 2019 – Feb 2024) 
+**Adviser**: [Eui Chul Lee](https://pr.smu.ac.kr/people/professor)  
+**Thesis**: Camera-based Remote Photoplethysmography and Heart Rate Variability Measurement for Real-time Driver Monitoring
+> 
+
+> **M.S.**, in Graduate School of Computer Science, Sangmyung University, Seoul, Korea (Mar 2017 – Feb 2019)
+**Adviser**: [Eui Chul Lee](https://pr.smu.ac.kr/people/professor)  
+**Thesis**: A Study on temporal-spatial feature based machine learning model for spontaneous/posed smile facial expression classification
+> 
+
+---
+
+# Publications [[Google Scholar Profile](https://scholar.google.co.kr/citations?user=lU9NpJUAAAAJ&hl=en)]
+
+**[C#]: Conference, [J#]: Journal, [W#]: workshops (#: Count)**
+
+### 2023
+
+> **[J11]** **Kunyoung Lee**, Jaemu Oh, Hojoon You, and Eui Chul Lee. **Improving Remote Photoplethysmography Performance through Deep-Learning-Based Real-Time Skin Segmentation Network.** *Electronics* 12, no. 17 (2023): 3729.
+> 
+
+> **[J10]** **Kunyoung Lee**, Seunghyun Kim, Byeongseon An, Hyunsoo Seo, Shinwi Park, and Eui Chul Lee. **Noise-Assessment-Based Screening Method for Remote Photoplethysmography Estimation.** *Applied Sciences* 13, no. 17 (2023): 9818.
+> 
+
+> **[J9]** Jin, Eunju, Hyunju Kang, **Kunyoung Lee**, Seung Gun Lee, and Eui Chul Lee. **Analysis of Nursing Students’ Nonverbal Communication Patterns during Simulation Practice: A Pilot Study.** In *Healthcare*, vol. 11, no. 16, p. 2335. MDPI, 2023.
+> 
+
+> **[J8]** **Kunyoung Lee**, Seunghyun Kim, and Eui Chul Lee. **Fast and Accurate Facial Expression Image Classification and Regression Method Based on Knowledge Distillation.** *Applied Sciences* 13, no. 11 (2023): 6409.
+> 
+
+> **[J7]** You, Hojoon, **Kunyoung Lee**, Jaemu Oh, and Eui Chul Lee. **Efficient and Low Color Information Dependency Skin Segmentation Model.** *Mathematics* 11, no. 9 (2023): 2057.
+> 
+
+> **[W1]** Kim, Seunghyun, **Kunyoung Lee**, and Eui Chul Lee. **Multi-View Body Image-Based Prediction of Body Mass Index and Various Body Part Sizes.** In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, pp. 6033-6040. 2023.
+> 
+
+### 2022
+
+> **[J6]** Hwang, Hyeonsang, **Kunyoung Lee**, and Eui Chul Lee. **A real-time remote respiration measurement method with improved robustness based on a CNN model.** *Applied Sciences* 12, no. 22 (2022): 11603.
+> 
+
+> **[J5]** Jang, Woohyuk, Chaewon Lee, Dae Sik Jeong, **Kunyoung Lee**, and Eui Chul Lee. **Multi-Currency Integrated Serial Number Recognition Model of Images Acquired by Banknote Counters.** *Sensors* 22, no. 22 (2022): 8612.
+> 
+
+> **[C3]** **Kunyoung Lee**, Hojoon You, Jaemu Oh, and Eui Chul Lee. **Extremely Lightweight Skin Segmentation Networks to Improve Remote Photoplethysmography Measurement.** In *International Conference on Intelligent Human Computer Interaction*, pp. 454-459. Cham: Springer Nature Switzerland, 2022.
+> 
+
+### 2021
+
+> **[C2]** **Kunyoung Lee**, Kyungwon Jin, Youngwon Kim, Jee Hang Lee, and Eui Chul Lee. **A comparative analysis on the impact of face tracker and skin segmentation onto improving the performance of real-time remote photoplethysmography.** In *Intelligent Human Computer Interaction: 12th International Conference, IHCI 2020, Daegu, South Korea, November 24–26, 2020, Proceedings, Part II 12*, pp. 27-37. Springer International Publishing, 2021.
+> 
+
+### 2020
+
+> **[J4]** **Kunyoung Lee**, and Eui Chul Lee. **Siamese Architecture-Based 3D DenseNet with Person-Specific Normalization Using Neutral Expression for Spontaneous and Posed Smile Classification.** *Sensors* 20, no. 24 (2020): 7184.
+> 
+
+> **[J3]** Nam, Uiseo, **Kunyoung Lee**, Hyunwoong Ko, Jun-Young Lee, and Eui Chul Lee. **Analyzing facial and eye movements to screen for Alzheimer’s disease.** *Sensors* 20, no. 18 (2020): 5349.
+> 
+
+> **[J2]** Park, Seho, **Kunyoung Lee** , Jae-A. Lim, Hyunwoong Ko, Taehoon Kim, Jung-In Lee, Hakrim Kim et al. **Differences in facial expressions between spontaneous and posed smiles: Automated method by action units and three-dimensional facial landmarks.** *Sensors* 20, no. 4 (2020): 1199.
+> 
+
+### 2019
+
+> **[J1]** **Kunyoung Lee**, and Eui Chul Lee. **Comparison of facial expression recognition performance according to the use of depth information of structured-light type RGB-D camera.** *Journal of Ambient Intelligence and Humanized Computing* (2019): 1-17.
+> 
+
+### 2018
+
+> **[C1]** **Kunyoung Lee**, and Eui Chul Lee. **Comparison of 2D&3D Performances of Facial Feature Analysis Using RGB-D Vision Sensor.** In *Advances in Computer Science and Ubiquitous Computing: CSA-CUTE 17*, pp. 1416-1421. Springer Singapore, 2018.
+> 
+
+### Domestic Journals (4건)
+
+> 황정원, **이건영**, 이의철, **"객체 추적 알고리즘 기반 비전 검사를 통한 압출부 타겟 검출 방법",** Journal of Next-generation Convergence Technology Association, 7(9), pp. 1412~1420, 2023년 9월 (KCI)
+> 
+
+> 이채원, 윤성빈, 조철우, 황현상, **이건영**, 이의철, **"ESRGAN을 이용한 차량 번호판 화질 개선을 통한 인식률 향상,"** Journal of Next-generation Convergence Technology Association, 6(1), pp. 5-11, 2022년 1월.
+> 
+
+> 안병선, **이건영**, 이의철, **"표정 정보를 보존하는 선택적 얼굴 비식별화 방법,"** Journal of Next-generation Convergence Technology Association, 6(11), pp. 2103-2109, 2022년 11월.
+> 
+
+> 고대준, 황현상, **이건영**, 김영원, 이의철, **"RGB 카메라를 이용한 다중 생체 신호 검출 통합 시스템 설계 및 개발,"** 차세대융합기술학회논문지 제5권 제5호, pp. 749-756, 2021년 10월.
+> 
+
+### Domestic conference (1건)
+
+> 이채원, 윤성빈, 조철우, 황현상, **이건영**, 이의철, **"License plate image enhancement based on super-resolution Generative Adversarial Networks,"** 제40회 한국법과학회 추계학술대회, 2021.11.23 ~ 2021.11.30, 온라인.
+> 
+
+---
+
+# Patents [[pr.smu.ac.kr](https://pr.smu.ac.kr/property/%EB%93%B1%EB%A1%9D%ED%8A%B9%ED%97%88)]
+
+**[R#]: Patent Registration, [A#]: Patent Application (#: Count)**
+
+### Patent Registration
+
+> [R5] **Lee, Kunyoung**  and Lee, Eui Chul, **“Method and apparatus for remote photoplethysmogram,”** Korean Patent Registration No: 10-2542525-0000 Date: 2023.06.07
+> 
+
+> [R4] **Lee, Kunyoung**;  Lee, E. C.; Nam, U.; Kim, Y; **“Deivce and method of screening dementia through analysis between face direction and gaze,”** Korean Patent Registration No: 10-2446848-0000 Date: 2022.09.20
+> 
+
+> [R3] **Lee, Kunyoung**;  Lee, E. C.; Kim, T.; Nam, U., **“Apparatus and method for measuring psychological anxiety”** Korean Patent Registration No: 10-2235932-0000 Date: 2021.03.30
+> 
+
+> [R2] **Lee, Kunyoung**  and Lee, Eui Chul,, **“Apparatus and method for measuring face symmetry”** Korean Patent Registration No: 10-211515-00000 Date: 2020.05.20
+> 
+
+> [R1] **Lee, Kunyoung**; Lee, E. C.; Kim, J. M., Jang, W., Han, J., **“Apparatus and method for measuring heartbeat using triaxial accelerometer”** Korean Patent Registration No: 10-1986213-0000 Date: 2019.05.30
+> 
+
+### Patent Application
+
+> [A7] **"원격 심박수 측정을 위한 심박 신호를 선별하는 방법 및 장치"**, 국내특허출원 (출원번호: 10-2023-0059266, 출원일: 2023.05.08), 발명자(이의철, **이건영**, 김승현, 박신위, 안병선, 서현수)
+> 
+
+> [A6] **"다중 출력에 대한 표정 인식을 위한 뉴럴 네트워크 모델의 경량화 장치 및 방법"**, 국내특허출원 (출원번호: 10-2023-0053584, 출원일: 2023.04.24), 발명자(이의철, 김승현, **이건영**)
+> 
+
+> [A5] **"심박수 산출 장치 및 방법"**, 국내특허출원 (출원번호: 10-2023-0160496, 출원일: 2023.11.20), 발명자(이의철, **이건영**, 김승현, 전용권, 이지은, 이강인)
+> 
+
+> [A4] **"원격 광용적맥파신호를 이용한 위조 얼굴 판별 방법 및 장치"**, 국내특허출원 (출원번호: 10-2022-0109832, 출원일: 2022.08.31), 발명자(이의철, **이건영**, 유호준, 오재무)
+> 
+
+> [A3] **"기계 학습 기반 시선 추적 장치 및 방법"**, 국내특허출원 (출원번호: 10-2021-0045737, 출원일: 2021.04.08), 발명자(이의철, **이건영**, 신유진, 한우정), 출원인(상명대학교산학협력단) (비대면)
+> 
+
+> [A2] **"영상 인식 기반 지폐 일련번호 인식 장치 및 방법"**, 국내특허출원 (출원번호: 10-2021-0016890, 출원일: 2021.02.05), 발명자(이의철, 장우혁, **이건영**, 전수민, 석채린, 신광용, 이덕형, 김수미, 김상오)
+> 
+
+> [A1] **"얼굴표정 분석기반 자폐 스펙트럼 장애 평가 방법"**, 국내특허출원 (출원번호: 10-2020-0160142, 출원일: 2020.11.25), 발명자(이의철,**이건영**, 김영원)
+> 
+
+---
+
+# **Research Projects**
+
+## Grant
+
+> **[한국연구재단(NRF)] 비접촉 생체신호 추출 및 생체정보 융합을 통한 이상징후 판별 기술 개발,**  *Jul. 2022 ~ Present*  
+**[과학기술정보통신부(MSIT)] 비접촉 생체신호 기반 운동효과 피드백 기능을 갖춘 AI 홈 트레이닝 시스템 제작,**  *Apr. 2022 ~ Feb. 2023*  
+**[과학기술일자리진흥원(COMPA)] 머신러닝 화재 판정 모듈 및 AI학습플랫폼 고도화.안정화 개발, [Project Manager],**  *Oct.* 2021 ~ *Mar.* 2023  
+**[산업통상자원부(KIAT)] 안면인식 위변조 보안을 적용한 무인매장 솔루션 연구개발 및 실증,**  *Sep. 2021 ~ Aug. 2022*  
+**[한국데이터산업진흥원(Kdata)] 2021 데이터바우처 지원 사업(수요기관:기산전자),**  *Jul. 2021 ~ Nov. 2021*  
+**[한국전자기술연구원(KETI)] 상태데이터 통합 인터페이스 제작,**  *Oct. 2020 ~ Dec. 2020*  
+**[한국연구재단(NRF)] 카메라 기반 통합형 자율신경 반응 측정 모델 연구,**  *Jun. 2019 ~ Feb. 2022*  
+**[한국연구재단(NRF)] 생체기반 영상정보 정량적 분석 시스템,**  *Mar. 2017 ~ Feb. 2021*  
+**[산업통상자원부(MOTIE)] 마음-몸 피드백을 통한 감정 치유를 위한 비접촉식 센싱 기반 인간 내면상태 인식 및 미러링 표출 상호작용 로봇 기술 개발,**  *Mar. 2017 ~ Aug. 2021*  
+> 
+
+### Contract
+
+> **[HYUNDAI NGV] 비전 기반 심박수 측정 시스템 개발 및 고도화, [Project Manager]**,  *Jul. 2023 ~ Oct. 2023*  
+**[HYUNDAI NGV] 운전자 감성인식을 위한 비접촉 생체신호 측정기술 개발, [Project Manager]**  *Oct. 2022 ~ Sep. 2023*  
+**[이후시스(주)] 비접촉 생체반응 측정 기술 개발, [Project Manager]**,  *Aug. 2022 ~ Jan. 2023*  
+**[SL Corporation] 얼굴 표정 및 HRV 특징을 이용한 운전자 감정인식 알고리즘 개발, [Project Manager]**,  *Jun. 2022 ~ Dec. 2023*  
+**[(주)이모코그] 신경퇴행성 질환자의 생체신호 수집 및 분석 기술 개발,**  *Mar. 2022 ~ Aug. 2022*  
+**[HYUNDAI NGV] 비전기반 생체반응 및 행동상태 측정 연구, [Project Manager]**,  *Dec. 2021 ~ Dec. 2022*  
+**[주식회사 애니랙티브] RGB 카메라 기반 생리반응 측정 및 인터렉션 기술개발, [Project Manager]**,  *Aug. 2021 ~ Oct. 2021*  
+**[KETI] 상태데이터 통합 인터페이스 고도화 용역,**  *Jun. 2021 ~ Nov. 2021*  
+**[대검찰청(SPO)] AI를 이용한 차량번호 인식 기법 연구, [Project Manager]**,  *Mar. 2021 ~ Dec. 2021*  
+**[기산전자] Deep Learning 기반 PC OCR 엔진 기술 개발, [Project Manager]**  *Mar. 2020 ~ Jun. 2020*  
+> 
+
+---
+
+# Demo(youtube)
+
+### Remote Photoplethysmography
+
+[Real-time skin segmentation-based remote photoplethysmography.](https://youtu.be/n_agiICg5PQ?si=rWAUoqZ8OjPWojeV)  
+
+[Application of the implemented real-time rPPG signal processing for driver monitoring.](https://youtu.be/Y4lsUkucfks?si=h9FIschSkHi1ZjEq)
+
+
+### Gaze Analysis
+
+[Infrared camera-based gaze tracking with 4-point calibratio.n](https://youtu.be/cMd2WTIpTWA?si=EQNGDvuQ-ZAfG45j)
+
+[Facial behavior analysis based on face and eye landmarks.](https://youtu.be/1uOyHijAFpQ?si=uT9DITi--88CRc9J)
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
