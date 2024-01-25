@@ -4,7 +4,7 @@ title:  "Curriculum Vitae (CV)"
 date:   2024-01-25 12:03:36 +0530
 ---
 
-# Welcome to my page!
+# Welcome!
 
 I work on overcoming instability and noisy data of Affective computing in the wild setting. Throughout my research, I have studied various kinds of topics to help AI deal with real-world problems in emotion recognition. Specifically, I am interested in advancing AI to better inference facial expression recognition and physiological signal sensing, such as in remote photoplethysmography and breathing rate.
 
