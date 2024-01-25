@@ -161,7 +161,7 @@ I work on overcoming instability and noisy data of Affective computing in the wi
 
 ## Grant
 
-> **[한국연구재단(NRF)] 비접촉 생체신호 추출 및 생체정보 융합을 통한 이상징후 판별 기술 개발,**  *Jul. 2022 ~ Present*  
+> **[한국연구재단(NRF)] 비접촉 생체신호 추출 및 생체정보 융합을 통한 이상징후 판별 기술 개발,**  *Jul. 2022 ~ 현재*  
 **[과학기술정보통신부(MSIT)] 비접촉 생체신호 기반 운동효과 피드백 기능을 갖춘 AI 홈 트레이닝 시스템 제작,**  *Apr. 2022 ~ Feb. 2023*  
 **[과학기술일자리진흥원(COMPA)] 머신러닝 화재 판정 모듈 및 AI학습플랫폼 고도화.안정화 개발, [Project Manager],**  *Oct.* 2021 ~ *Mar.* 2023  
 **[산업통상자원부(KIAT)] 안면인식 위변조 보안을 적용한 무인매장 솔루션 연구개발 및 실증,**  *Sep. 2021 ~ Aug. 2022*  
