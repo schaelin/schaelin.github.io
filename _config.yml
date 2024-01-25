@@ -34,18 +34,18 @@ plainwhite:
   # generate social links in footer
   social_links:
     # twitter: KYL92
+    email: guy9284@gmail.com
     github:  KYL92
+    youtube: /@user-jf9ru4vb3q
     # linkedIn: KYL92
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
     #pinterest: jekyll
-    youtube: /@user-jf9ru4vb3q
     #facebook: jekyll
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    email: guy9284@gmail.com
 
   navigation:
     - title: Home
