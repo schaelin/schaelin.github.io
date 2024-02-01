@@ -12,15 +12,15 @@ future: true
 sass:
   sass_dir: _sass
   
-notion:
-  pages:
-    - id: 838177043c474405bcbc09826a13153b
+# notion:
+#   pages:
+#     - id: 838177043c474405bcbc09826a13153b
   # databases:
   #   - id: 838177043c474405bcbc09826a13153b
 
 plainwhite:
   name: Kunyoung Lee
-  tagline: Researcher in AI, Machine Learning, Affective Computing, etc.
+  tagline: Ph.D. Researcher in AI, Machine Learning, Affective Computing, etc.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -48,16 +48,28 @@ plainwhite:
     #gitlab: jekyll
 
   navigation:
+
     - title: Home
-      url: "/"
+      url: "http://kyl92.github.io/#:~:text=Dark%20Mode-,Update,-%3A2024.02.01"
     - title: Publications
-      url: "/"
+      url: http://kyl92.github.io/#:~:text=Eui%20Chul%20Lee-,Publications,-%5BGoogle%20Scholar
     - title: Patents
-      url: "/"
+      url: http://kyl92.github.io/#:~:text=2021.11.23%20~%202021.11.30%2C%20%EC%98%A8%EB%9D%BC%EC%9D%B8.-,Patents,-%5Bpr.smu
     - title: Projects
-      url: "/"
+      url: http://kyl92.github.io/#:~:text=%EC%9D%B4%EA%B1%B4%EC%98%81%2C%20%EA%B9%80%EC%98%81%EC%9B%90)-,Research%20Projects,-Grant%20(9%EA%B1%B4
     - title: Demo
-      url: "/"
+      url: http://kyl92.github.io/#:~:text=2020%20~%20Jun.%202020-,Demo,-(youtube)
+
+    # - title: Home
+    #   url: "http://127.0.0.1:4000/#:~:text=Dark%20Mode-,Update,-%3A2024.02.01"
+    # - title: Publications
+    #   url: http://127.0.0.1:4000/#:~:text=Eui%20Chul%20Lee-,Publications,-%5BGoogle%20Scholar
+    # - title: Patents
+    #   url: http://127.0.0.1:4000/#:~:text=2021.11.23%20~%202021.11.30%2C%20%EC%98%A8%EB%9D%BC%EC%9D%B8.-,Patents,-%5Bpr.smu
+    # - title: Projects
+    #   url: http://127.0.0.1:4000/#:~:text=%EC%9D%B4%EA%B1%B4%EC%98%81%2C%20%EA%B9%80%EC%98%81%EC%9B%90)-,Research%20Projects,-Grant%20(9%EA%B1%B4
+    # - title: Demo
+    #   url: http://127.0.0.1:4000/#:~:text=2020%20~%20Jun.%202020-,Demo,-(youtube)
     # Mastodon instances
     # mastodon:
     # - username: jekyll
@@ -74,7 +86,7 @@ plainwhite:
 # theme: plainwhite
 
 plugins:
-  - jekyll-notion
+  # - jekyll-notion
   - jekyll-seo-tag
 
 #  - jekyll-feed

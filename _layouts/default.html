@@ -5,6 +5,13 @@
   {%- include head.html -%}
 </head>
 
+<style>
+  .column-list {
+    display: flex;
+    justify-content: space-between;
+  }
+</style>
+
 {%- if site.plainwhite.condensed_mobile contains page.layout -%}
 {% assign condensed_class = "condensed" %}
 {% else %}
