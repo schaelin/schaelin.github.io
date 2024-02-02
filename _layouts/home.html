@@ -2,6 +2,23 @@
 layout: default
 ---
 
+{%- if site.posts.size > 0 -%}
+  <ul class="posts">
+    <li class="posts-labelgroup" id="posts-labelgroup">
+      <h1 id="posts-label">posts</h1>
+      {% if site.plainwhite.search %}
+      <div class="search-container">
+        <div class="search-section">
+          <i class="icon-search"></i>
+          <input type="text" name="search" id="searchbar" autocomplete="off" aria-label="search in posts">
+        </div>
+        <div class="search-results" id="search-results" data-placeholder="No Results" style="display: none;"></div>
+      </div>
+      {% endif %}
+    </li>
+  </ul>
+{%- endif -%}
+
 <ul class="posts">
   <div class="post">
     <body><article id="83817704-3c47-4405-bcbc-09826a13153b" class="page sans"><header><p class="page-description"></p></header><div class="page-body"><p id="2750c0c7-0478-4f5f-8b45-28524c14b363" class="block-color-gray">

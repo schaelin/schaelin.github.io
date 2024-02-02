@@ -1,4 +1,4 @@
-# theme: plainwhite
+theme: plainwhite
 title: Kunyoung Lee (CV)
 author: KYL92
 email: guy9284@gmail.com
@@ -50,7 +50,7 @@ plainwhite:
   navigation:
 
     - title: Home
-      url: "http://kyl92.github.io/#:~:text=Dark%20Mode-,Update,-%3A2024.02.01"
+      url: "http://kyl92.github.io"
     - title: Publications
       url: http://kyl92.github.io/#:~:text=Eui%20Chul%20Lee-,Publications,-%5BGoogle%20Scholar
     - title: Patents
@@ -59,9 +59,11 @@ plainwhite:
       url: http://kyl92.github.io/#:~:text=%EC%9D%B4%EA%B1%B4%EC%98%81%2C%20%EA%B9%80%EC%98%81%EC%9B%90)-,Research%20Projects,-Grant%20(9%EA%B1%B4
     - title: Demo
       url: http://kyl92.github.io/#:~:text=2020%20~%20Jun.%202020-,Demo,-(youtube)
+    - title: Posts
+      url: 
 
     # - title: Home
-    #   url: "http://127.0.0.1:4000/#:~:text=Dark%20Mode-,Update,-%3A2024.02.01"
+    #   url: "http://127.0.0.1:4000"
     # - title: Publications
     #   url: http://127.0.0.1:4000/#:~:text=Eui%20Chul%20Lee-,Publications,-%5BGoogle%20Scholar
     # - title: Patents
@@ -70,6 +72,9 @@ plainwhite:
     #   url: http://127.0.0.1:4000/#:~:text=%EC%9D%B4%EA%B1%B4%EC%98%81%2C%20%EA%B9%80%EC%98%81%EC%9B%90)-,Research%20Projects,-Grant%20(9%EA%B1%B4
     # - title: Demo
     #   url: http://127.0.0.1:4000/#:~:text=2020%20~%20Jun.%202020-,Demo,-(youtube)
+    # - title: Posts
+    #   url: 
+
     # Mastodon instances
     # mastodon:
     # - username: jekyll
@@ -86,7 +91,4 @@ plainwhite:
 # theme: plainwhite
 
 plugins:
-  # - jekyll-notion
   - jekyll-seo-tag
-
-#  - jekyll-feed
