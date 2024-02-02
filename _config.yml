@@ -19,7 +19,7 @@ sass:
   #   - id: 838177043c474405bcbc09826a13153b
 
 plainwhite:
-  name: Kunyoung Lee
+  name: Chaelin Seok
   tagline: Ph.D. Researcher in AI, Machine Learning, Affective Computing, etc.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -35,9 +35,9 @@ plainwhite:
   social_links:
     # twitter: KYL92
     email: guy9284@gmail.com
-    github:  KYL92
-    youtube: /@user-jf9ru4vb3q
-    # linkedIn: KYL92
+    github:  schaelin
+    # youtube: /@user-jf9ru4vb3q
+    linkedIn: chaelin9905
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll

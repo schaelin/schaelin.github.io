@@ -1,5 +1,4 @@
 # frozen_string_literal: true
-# Gemfile
-gem 'jekyll-notion'
+# Gemfilegem
 source "https://rubygems.org"
 gemspec
